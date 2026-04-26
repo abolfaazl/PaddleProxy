@@ -1,0 +1,11 @@
+{
+    "host": "0.0.0.0",
+    "port": 3232,
+    "dns": [
+        "8.8.8.8",
+        "1.1.1.1"
+    ],
+    "blacklist": [],
+    "auth_enabled": true,
+    "users": {}
+}
